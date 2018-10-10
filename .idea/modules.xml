@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Demo/Demo.iml" filepath="$PROJECT_DIR$/Demo/Demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/WheelPicker.iml" filepath="$PROJECT_DIR$/WheelPicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/WheelPicker.iml" filepath="$PROJECT_DIR$/.idea/WheelPicker.iml" />
       <module fileurl="file://$PROJECT_DIR$/WheelPicker/WheelPicker-WheelPicker.iml" filepath="$PROJECT_DIR$/WheelPicker/WheelPicker-WheelPicker.iml" />
     </modules>
   </component>
